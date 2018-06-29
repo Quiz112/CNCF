@@ -2,7 +2,7 @@
 
 <div class="card" style="background-color: #007b9c; width: 100%; color: white; border-radius: 0; margin-top: 0%; position: absolute; border-bottom: 3px solid #004e63;" id="page-title-1">
 	  <div class="card-body" style="font-weight: bold; font-size: 1.5em;">
-	    Resources
+	    Doctors
 	  </div>
 	</div>
 
